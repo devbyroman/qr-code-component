@@ -26,8 +26,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/qr-code-component-3nAvkYpdYd)
-- Live Site URL: [Add live site URL here](qr-code-component-nine-ruby.vercel.app/)
+- Solution URL: [Frontend Mentor Solution](https://www.frontendmentor.io/solutions/qr-code-component-3nAvkYpdYd)
+- Live Site URL: [Live Site Vercel](qr-code-component-nine-ruby.vercel.app/)
 
 ## My process
 
